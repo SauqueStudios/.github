@@ -1,5 +1,5 @@
 
-![Logo](https://www.hebergeur-image.com/upload/176.176.149.80-661ebf57cc60b.png)
+![Logo](https://www.hebergeur-image.com/upload/176.176.149.80-661ec2ab365be.png)
 
 
 # Sauque Studio
